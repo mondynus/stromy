@@ -1,0 +1,29 @@
+﻿{
+  "1": {
+     "meno":"jaseň štíhly"
+    ,"meno_lt":"Fraxinus excelsior"
+    ,"typ":"L"
+    ,"obvod":266
+    ,"priemer_koruny":10
+    ,"vyska":16
+    ,"vyska_kmen":6
+    },
+  "2": {
+     "meno":"gledičia trojtŕňová"
+    ,"meno_lt":"Gleditsia triacanthos"
+    ,"typ":"L"
+    ,"obvod":127
+    ,"priemer_koruny":6
+    ,"vyska":8
+    ,"vyska_kmen":4
+    },
+  "3": {
+     "meno":"lipa malolistá"
+    ,"meno_lt":"Tilia cordata"
+    ,"typ":"L"
+    ,"obvod":131
+    ,"priemer_koruny":5
+    ,"vyska":8
+    ,"vyska_kmen":2
+    }
+}
